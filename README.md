@@ -1,4 +1,2 @@
-# Hello Jed,
-Thanks so much for speaking me with about the Program Manager role. I enjoyed learning more about Diversity, Inclusion and Belonging at Github.  I am thrilled that your company chose to have an interview focused around this very important topic. 
-
- 
+# Hello Toni,
+Thanks so much for speaking me with about the Program Manager role. I enjoyed learning more about the role and the success metrics around it. I also was very impressed with your “Ahoy” initiative and I applaud your efforts to improve the onboarding experience at Github. I hope to be able to partner with you in the quest to drive product and process improvements across the spectrum of Customer Support. 
